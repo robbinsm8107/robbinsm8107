@@ -14,9 +14,6 @@
   <h2> Linux Projects:</h2>
 
 - <b>Red Hat Enterprise Linux</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/robbinsm8107/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/robbinsm8107/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/robbinsm8107/ticket-lifecycle)
  
    <h2>Certifications:</h2>
 
