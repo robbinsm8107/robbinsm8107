@@ -10,6 +10,20 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/robbinsm8107/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robbinsm8107/azure-network-protocols)
+ 
+  <h2> Linux Projects:</h2>
+
+- <b>Red Hat Enterprise Linux</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/robbinsm8107/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/robbinsm8107/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/robbinsm8107/ticket-lifecycle)
+ 
+   <h2>Certifications:</h2>
+
+- <b>Certified Cisco Network Associate</b>
+  <p align="center">
+<img src="https://i.imgur.com/ORHgMuc.png" alt="Traffic Examination"/>
+</p>
 
 <h2>🤳Connect with me:</h2>
 
