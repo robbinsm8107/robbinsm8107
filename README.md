@@ -13,7 +13,7 @@
  
   <h2> Linux Projects:</h2>
 
-- <b>Red Hat Enterprise Linux</b>
+- <b>Red Hat Enterprise Linux (RHEL)</b>
  
    <h2>Certifications:</h2>
 
