@@ -10,10 +10,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/robbinsm8107/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robbinsm8107/azure-network-protocols)
- 
-  <h2> Linux Projects:</h2>
-
-- <b>Red Hat Enterprise Linux (RHEL) Projects</b>
+ - <b>Red Hat Enterprise Linux (RHEL)</b>
+   - [RHCSA Practice Labs](https://github.com/robbinsm8107/RHEL)
  
    <h2>Certifications:</h2>
 
