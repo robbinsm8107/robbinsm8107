@@ -11,6 +11,12 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/robbinsm8107/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robbinsm8107/azure-network-protocols)
  
+<h2>👽Coding Projects:</h2>
+
+- <b>Python </b>
+  - [Basic Python Weight Converter](https://github.com/robbinsm8107/Python0)
+- <b>Java</b>
+ 
    <h2>Certifications:</h2>
 
 - <b>Certified Cisco Network Associate</b>
