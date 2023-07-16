@@ -16,7 +16,7 @@
 - <b>Python </b>
   - [Basic Python Weight Converter](https://github.com/robbinsm8107/Python0)
 - <b>Java</b>
-- [Basic Java Scheduling Prototype](https://github.com/robbinsm8107/Java0)
+  - [Basic Java Scheduling Prototype](https://github.com/robbinsm8107/Java0)
  
    <h2>Certifications:</h2>
 
