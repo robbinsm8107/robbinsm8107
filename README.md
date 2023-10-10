@@ -21,9 +21,7 @@
    <h2>Certifications:</h2>
 
 - <b>Certified Cisco Network Associate</b>
-  <p align="center">
-<img src="https://i.imgur.com/ORHgMuc.png" alt="Traffic Examination"/>
-</p>
+- <b>ITIL v4 Foundations</b>
 
 <h2>🤳Connect with me:</h2>
 
