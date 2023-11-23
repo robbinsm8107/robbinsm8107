@@ -19,6 +19,7 @@
    <h2>Certifications:</h2>
 
 - <b>Certified Cisco Network Associate</b>
+- <b>Security+</b>
 - <b>ITIL v4 Foundations</b>
 
 <h2>🤳Connect with me:</h2>
