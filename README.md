@@ -10,6 +10,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/robbinsm8107/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robbinsm8107/azure-network-protocols)
+  - [SIEM Honey Pot Utilizing Azure Sentinel](https://github.com/robbinsm8107/SIEM_Project)
+
+  - 
  
 <h2>👽Coding Projects:</h2>
 
