@@ -4,9 +4,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Cyber Security</b>
-  - [SIEM Honey Pot Utilizing Azure Sentinel](https://github.com/robbinsm8107/SIEM_Project)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robbinsm8107/azure-network-protocols)
-  - [Nessus Vulnerability Assessment](https://github.com/robbinsm8107/Nessus)
+    - [SIEM Honey Pot Utilizing Azure Sentinel](https://github.com/robbinsm8107/SIEM_Project)
+    - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/robbinsm8107/azure-network-protocols)
+    - [Nessus Vulnerability Assessment](https://github.com/robbinsm8107/Nessus)
     
 - <b>Administration</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/robbinsm8107/configure-ad)
