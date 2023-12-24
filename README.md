@@ -21,7 +21,7 @@
  
    <h2>Certifications:</h2>
 
-- <b>Certified Cisco Network Associate</b>
+- <b>Cisco Certified Network Associate</b>
 - <b>Security+</b>
 - <b>ITIL v4 Foundations</b>
 
