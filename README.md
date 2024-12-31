@@ -17,7 +17,7 @@
 <h2>👽Coding Projects:</h2>
 
 - <b>Python </b>
-  - [Basic Python Weight Converter](https://github.com/robbinsm8107/Python0)
+  - [Simple Calculator](calculator.py)
  
    <h2>Certifications:</h2>
 
