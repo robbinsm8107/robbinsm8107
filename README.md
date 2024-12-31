@@ -17,7 +17,7 @@
 <h2>👽Coding Projects:</h2>
 
 - <b>Python </b>
-  - [Simple Calculator](calculator.py)
+  - [Simple Calculator](https://github.com/robbinsm8107/calculator.py/blob/main/calculator.py)
  
    <h2>Certifications:</h2>
 
